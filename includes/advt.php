@@ -1,0 +1,1 @@
+<img src="styles/img/AdvtBanner.png" style="width: 80%"  />

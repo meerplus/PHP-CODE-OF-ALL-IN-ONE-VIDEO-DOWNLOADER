@@ -1,0 +1,715 @@
+
+[
+
+  {
+    "Name": "youtube",
+    "ServiceUrl": "https://www.youtube.com/",
+	"MobileSupport":false,
+    "TestUrls": [
+      {
+        "Url": "https://www.youtube.com/watch?v=eAo8gnUCWzE"
+      }
+    ]
+  },
+
+  {
+    "Name": "Facebook",
+    "ServiceUrl": "https://www.facebook.com",
+    "TestUrls": [
+      {
+        "Url": "https://www.facebook.com/1080471110/videos/10220133218335617/"
+      },
+      {
+        "Url": "https://www.facebook.com/LinkedIn/videos/1768400119850186/"
+      }
+    ]
+  },
+  {
+    "Name": "MX Takatak",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.next.innovation.takatak&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://v.mxtakatak.com/vQZT/ac6f5372"
+      }
+    ]
+  },
+
+  {
+    "Name": "Moj Video",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=in.mohalla.video&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://mojapp.in/@reshmasa_58/video/99752273"
+      }
+    ]
+  },
+   {
+    "Name": "Zili",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.funnypuri.client&hl=en_IN&gl=US",
+	"MobileSupport":false,
+    "TestUrls": [
+      {
+        "Url": "https://api.zilivideo.com/_puri/share/v1/index/509e23be9b804514bc597439102005dc/4/IN/en/20201015"
+      },
+      {
+        "Url": "https://api.zilivideo.com/_puri/share/v1/index/15800a32a1ce45af9225dc0133c94a92/4/IN/en/20201015"
+      }
+    ]
+  },
+  {
+    "Name": "espn",
+    "ServiceUrl": "https://www.espn.in/",
+    "TestUrls": [
+      {
+        "Url": "https://www.espn.in/video/clip/_/id/4235266"
+      }
+    ]
+  },
+  {
+    "Name": "flickr",
+    "ServiceUrl": "https://www.flickr.com/",
+    "TestUrls": [
+      {
+        "Url": "https://flic.kr/p/ax93u8"
+      }
+    ]
+  },
+  {
+    "Name": "imdb",
+    "ServiceUrl": "https://www.imdb.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.imdb.com/video/vi1375060249?ref_=hm_hp_i_2&listId=ls053181649"
+      }
+    ]
+  },
+  {
+    "Name": "9gag",
+    "ServiceUrl": "https://9gag.com/",
+    "TestUrls": [
+      {
+        "Url": "https://9gag.com/gag/a3wpEWm"
+      }
+    ]
+  },
+  {
+    "Name": "twitter",
+    "ServiceUrl": "https://twitter.com",
+    "TestUrls": [
+      {
+        "Url": "https://twitter.com/RitaPanahi/status/1305011527351582721?s=20"
+      }
+    ]
+  },
+  {
+    "Name": "bilibili",
+    "ServiceUrl": "https://www.bilibili.com",
+    "TestUrls": [
+      {
+        "Url": "https://www.bilibili.com/video/BV1bK4y1h7oi?spm_id_from=333.851.b_7265706f7274466972737431.7"
+      }
+    ]
+  },
+  {
+    "Name": "dailymotion",
+    "ServiceUrl": "https://www.dailymotion.com",
+    "TestUrls": [
+      {
+        "Url": "https://www.dailymotion.com/video/x7wuwpg?playlist=x6hzyp"
+      }
+    ]
+  },
+  {
+    "Name": "Blogger",
+    "ServiceUrl": "https://blogspot.com",
+    "TestUrls": [
+      {
+        "Url": "https://surajtestblog.blogspot.com/2020/10/see-this-gird.html"
+      }
+    ]
+  },
+  {
+    "Name": "Bandcamp",
+    "ServiceUrl": "https://bandcamp.com/",
+    "TestUrls": [
+      {
+        "Url": "https://micahmckee.bandcamp.com/album/limbo-frequencies-vol-1"
+      }
+    ]
+  },
+  {
+    "Name": "imgur",
+    "ServiceUrl": "https://imgur.com/",
+    "TestUrls": [
+      {
+        "Url": "https://imgur.com/FAMVfNI"
+      }
+    ]
+  },
+  {
+    "Name": "izlesene",
+    "ServiceUrl": "https://www.izlesene.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.izlesene.com/video/kadin-hakemi-caktirmadan-elledi/3495319#"
+      }
+    ]
+  },
+  {
+    "Name": "liveleak",
+    "ServiceUrl": "https://www.liveleak.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.liveleak.com/view?t=9ZDiw_1602944512"
+      }
+    ]
+  },
+  {
+    "Name": "pinterest",
+    "ServiceUrl": "https://pinterest.com/",
+    "TestUrls": [
+      {
+        "Url": "https://in.pinterest.com/pin/636414991083236911/"
+      }
+    ]
+  },
+  {
+    "Name": "Reddit",
+    "ServiceUrl": "https://www.reddit.com",
+    "TestUrls": [
+      {
+        "Url": "https://www.reddit.com/user/Otherwise_Cancel4581/"
+      }
+    ]
+  },
+  {
+    "Name": "bitchute",
+    "ServiceUrl": "https://www.bitchute.com",
+    "TestUrls": [
+      {
+        "Url": "https://www.bitchute.com/video/JzJhJE9PHgGp/"
+      },
+      {
+        "Url": "https://www.bitchute.com/video/y98FMt27w3SQ/"
+      }
+    ]
+  },
+  {
+    "Name": "Linkedin",
+    "ServiceUrl": "https://www.linkedin.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.linkedin.com/feed/update/urn:li:activity:6723978889040920576/"
+      }
+    ]
+  },
+  {
+    "Name": "popcornflix",
+    "ServiceUrl": "https://www.popcornflix.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.popcornflix.com/watch/channel/the-pet-collective/12-xqd3y3dhjfot-are-animals-friends-or-foes-pets-translated"
+      }
+    ]
+  },
+  {
+    "Name": "Vimeo",
+    "ServiceUrl": "https://vimeo.com/",
+    "TestUrls": [
+      {
+        "Url": "https://vimeo.com/465991951"
+      }
+    ]
+  },
+  {
+    "Name": "DTube",
+    "ServiceUrl": "https://d.tube/",
+    "TestUrls": [
+      {
+        "Url": "https://d.tube/#!/v/leofrankcase14/QmNqLpuu9VyMovt22sMRzMD3Ejwkd9osEVEpTFaPUdhFwp"
+      },
+      {
+        "Url": "https://d.tube/#!/v/bitrocker2020/QmVNerfh1fpD9dm6ePZ4NBTcB4AxiYQqekWmS8Wcp5tAAy"
+      }
+    ]
+  },
+  {
+    "Name": "Sendvid",
+    "ServiceUrl": "https://sendvid.com/",
+    "TestUrls": [
+      {
+        "Url": "https://sendvid.com/sjnt0mbr"
+      }
+    ]
+  },
+  {
+    "Name": "Fansubs.tv",
+    "ServiceUrl": "https://fansubs.tv/",
+    "TestUrls": [
+      {
+        "Url": "https://fansubs.tv/v/XDE8VR"
+      },
+      {
+        "Url": "https://fansubs.tv/v/qWnAgj"
+      }
+    ]
+  },
+  {
+    "Name": "me.me",
+    "ServiceUrl": "https://me.me/",
+    "TestUrls": [
+      {
+        "Url": "https://me.me/i/rt-thecannigma-what%E2%80%99s-your-go-to-munchie-%E2%80%9Csolution%E2%80%9D-https-t-co-6vcdnerio6-1228ed47275f4a1e8a6128e660500d90"
+      },
+      {
+        "Url": "https://me.me/i/this-is-the-funniest-video-on-the-internet-right-now-19253772"
+      }
+    ]
+  },
+  {
+    "Name": "kickstarter",
+    "ServiceUrl": "https://www.kickstarter.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.kickstarter.com/projects/peterricq/ghost-are-people-too?ref=section-homepage-projectcollection-3-staff-picks-newest"
+      }
+    ]
+  },
+  {
+    "Name": "vlive",
+    "ServiceUrl": "https://www.vlive.tv/",
+    "TestUrls": [
+      {
+        "Url": "https://www.vlive.tv/video/218003"
+      }
+    ]
+  },
+  {
+    "Name": "vlipsy",
+    "ServiceUrl": "https://vlipsy.com/",
+    "TestUrls": [
+      {
+        "Url": "https://vlipsy.com/vlip/Z0XuKKIf"
+      }
+    ]
+  },
+  {
+    "Name": "vidlit",
+    "ServiceUrl": "https://www.vidlit.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.vidlit.com/video/deconstructing-the-beatles/"
+      }
+    ]
+  },
+  {
+    "Name": "Gloria.tv",
+    "ServiceUrl": "https://gloria.tv/",
+    "TestUrls": [
+      {
+        "Url": "https://gloria.tv/post/gZoNTpznykx341dnAKcVDGJrh"
+      },
+      {
+        "Url": "https://gloria.tv/post/hsje2oYuCcpu6Z7vzkf3QfxsD"
+      }
+    ]
+  },
+  {
+    "Name": "wwe.com",
+    "ServiceUrl": "https://www.wwe.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.wwe.com/videos/pat-mcafee-speaks-after-his-shocking-return-to-nxt-wwe-network-exclusive-oct-21-2020"
+      },
+      {
+        "Url": "https://www.wwe.com/videos/roman-reigns-makes-his-nxt-debut-wwe-nxt-oct-31-2012"
+      }
+    ]
+  },
+  {
+    "Name": "Aparat",
+    "ServiceUrl": "https://www.aparat.com",
+    "TestUrls": [
+      {
+        "Url": "https://www.aparat.com/v/doIQC"
+      },
+      {
+        "Url": "https://www.aparat.com/v/GY69u?playlist=362134"
+      }
+    ]
+  },
+  {
+    "Name": "1tv.ru",
+    "ServiceUrl": "https://www.1tv.ru/",
+    "TestUrls": [
+      {
+        "Url": "https://www.1tv.ru/-/htdxp"
+      },
+      {
+        "Url": "https://www.1tv.ru/shows/dobroe-utro/reportazh/vzlet-razreshayu-dobroe-utro-fragment-vypuska-ot-20-10-2020"
+      }
+    ]
+  },
+  {
+    "Name": "Allocine.fr",
+    "ServiceUrl": "https://www.allocine.fr/",
+    "TestUrls": [
+      {
+        "Url": "https://www.allocine.fr/video/player_gen_cmedia=19584034&cfilm=268927.html"
+      },
+      {
+        "Url": "https://www.allocine.fr/video/player_gen_cmedia=19588817&cfilm=273912.html"
+      }
+    ]
+  },
+  {
+    "Name": "Audioboom",
+    "ServiceUrl": "https://audioboom.com/",
+    "TestUrls": [
+      {
+        "Url": "https://audioboom.com/posts/7660699-american-gangster-part-1"
+      },
+      {
+        "Url": "https://audioboom.com/posts/7605348-goodfellas-part-1"
+      }
+    ]
+  },
+  {
+    "Name": "Audiomack",
+    "ServiceUrl": "https://audiomack.com/",
+    "TestUrls": [
+      {
+        "Url": "https://audiomack.com/rafa-pabon/album/1022"
+      }
+    ]
+  },
+ 
+  {
+    "Name": "Veer",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.veer.video",
+    "TestUrls": [
+      {
+        "Url": "https://tezpage.com/12514"
+      },
+      {
+        "Url": "https://tezpage.com/12734"
+      }
+    ]
+  },
+  {
+    "Name": "Sharechat",
+    "ServiceUrl": "https://sharechat.com/",
+    "TestUrls": [
+      {
+        "Url": "https://sharechat.com/post/0zRezgvk?referrer=copyLink"
+      }
+    ]
+  },
+  {
+    "Name": "ojoo",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.fun.top.video&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://www.bemate.co/video/00941783b74ff480"
+      }
+    ]
+  },
+  {
+    "Name": "Dubsmash",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://dubsmash.com/post/f36d630fe84d4bc685530a635b191244"
+      }
+    ]
+  },
+  {
+    "Name": "Raask",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.musicApp.raask&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "http://raask.in/API/view.php?id=20547"
+      }
+    ]
+  },
+  {
+    "Name": "Fairtok",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.fairtok&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://fairtok.app.link/Y7ov2al149"
+      }
+    ]
+  },
+  {
+    "Name": "Byte",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=co.byte&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://byte.co/b/3DDXPvhyIOB"
+      }
+    ]
+  },
+  {
+    "Name": "Josh",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.eterno.shortvideos&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://share.myjosh.in/video/bf616cee-c54d-4097-ad12-8f76feab6ec6"
+      }
+    ]
+  },
+  {
+    "Name": "kooapp",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.koo.app&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://www.kooapp.com/koo/%E0%A4%95%E0%A5%87.%E0%A4%95%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%82%E0%A4%B6%E0%A5%80-TUMO/3ONCG"
+      }
+    ]
+  },
+  {
+    "Name": "Chingari",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=io.chingari.app&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://chingari.io/share/post?id=5f92b0cfa61db009be962bf3"
+      }
+    ]
+  },
+  {
+    "Name": "Rizzle",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.thesilverlabs.rumbl&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://rizzle.tv/post/5f6006db06b6fe1a1ca0ea26?utm_source=sharechat"
+      }
+    ]
+  },
+  {
+    "Name": "trell",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=app.trell&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://trell.co/watch/-18c8244766cb"
+      }
+    ]
+  },
+  {
+    "Name": "triller",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=co.triller.droid&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://v.triller.co/60y57O"
+      }
+    ]
+  },
+  {
+    "Name": "Mitron",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.mitron.tv&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://web.mitron.tv/video/NYKywJ4wGtkYL0REtPw"
+      }
+    ]
+  },
+  {
+    "Name": "ifunny",
+    "ServiceUrl": "https://ifunny.co/",
+    "TestUrls": [
+      {
+        "Url": "https://ifunny.co/video/T5FlLaB58?gallery=featured"
+      },
+      {
+        "Url": "https://ifunny.co/video/jOcLd2P68"
+      }
+    ]
+  },
+  {
+    "Name": "boloindya",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.boloindya.boloindya&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://www.boloindya.com/video_bytes/8209018/1728437/boloindyadance/"
+      }
+    ]
+  },
+  {
+    "Name": "Roposo",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.roposo.android&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://www.roposo.com/story/auto-original-hindi-english-channel_celebrations-garba-memories-priyagolani--fe6a19c4-b37b-4671-ab92-88d83179619b"
+      }
+    ]
+  },
+  {
+    "Name": "hind",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.cardfeed.hindapp&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://hind.app/video/sp_6yh9gios15ikx"
+      }
+    ]
+  },
+  {
+    "Name": "funimate",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.avcrbt.funimate&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://funimate.com/p/bHnW1"
+      }
+    ]
+  },
+  {
+    "Name": "Tiktok",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en_IN&gl=US",
+    "TestUrls": [
+      {
+        "Url": "https://vm.tiktok.com/vYGJYb/"
+      }
+    ]
+  },
+  {
+    "Name": "Likee",
+    "ServiceUrl": "https://play.google.com/store/apps/details?id=video.like",
+    "TestUrls": [
+      {
+        "Url": "https://l.likee.video/v/AUnazy"
+      },
+      {
+        "Url": "https://like.video/s/6710270601776165050"
+      },
+      {
+        "Url": "https://likee.video/main/list/@Nyaz18/video/6727972833551675308"
+      }
+    ]
+  },
+  {
+    "Name": "streamable",
+    "ServiceUrl": "https://streamable.com/",
+    "TestUrls": [
+      {
+        "Url": "https://streamable.com/9yt88s"
+      }
+    ]
+  },
+  {
+    "Name": "gfycat",
+    "ServiceUrl": "https://gfycat.com/",
+    "TestUrls": [
+      {
+        "Url": "https://gfycat.com/agedbleakadder"
+      },
+      {
+        "Url": "https://gfycat.com/bigenchantingaustralianfreshwatercrocodile-funny-cat-dog"
+      }
+    ]
+  },
+  {
+    "Name": "fthis",
+    "ServiceUrl": "https://www.fthis.gr/",
+    "TestUrls": [
+      {
+        "Url": "https://www.fthis.gr/videos/mairh-synatsakh-poios-8a-kerdisei-to-gntm-kai-poia-einai-h-gnwmh-ths-gia-th-rasel"
+      },
+      {
+        "Url": "https://www.fthis.gr/scoop/my-style-rocks-ola-osa-8a-doyme-sto-ayriano-gala"
+      }
+    ]
+  },
+  {
+    "Name": "fireworktv",
+    "ServiceUrl": "https://fireworktv.com/",
+    "TestUrls": [
+      {
+        "Url": "https://fireworktv.com/videos/K7XZVyR.5nx8A2"
+      },
+      {
+        "Url": "https://fw.tv/quicktake/videos/5bAOPK"
+      }
+    ]
+  },
+  {
+    "Name": "coub",
+    "ServiceUrl": "https://coub.com/",
+    "TestUrls": [
+      {
+        "Url": "https://coub.com/view/2kv1nk"
+      },
+      {
+        "Url": "https://coub.com/view/2bvoqv"
+      }
+    ]
+  },
+  {
+    "Name": "xvideos",
+    "ServiceUrl": "https://xvideos.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.xvideos4.com/video44183249/divya_dutta_hottest_scene"
+      }
+    ]
+  },
+  {
+    "Name": "rumble",
+    "ServiceUrl": "https://rumble.com/",
+    "TestUrls": [
+      {
+        "Url": "https://rumble.com/vam0ld-biggest-detroit-river-ecosystem-threats.html"
+      },
+      {
+        "Url": "https://rumble.com/va13y3-body-of-1-of-2-missing-boaters-from-grosse-ile-recovered-in-detroit-river.html"
+      }
+    ]
+  },
+  {
+    "Name": "xnxx",
+    "ServiceUrl": "https://xnxx.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.xnxx2.com/video-stf0xdf/gadhemechudai"
+      }
+    ]
+  },
+  {
+    "Name": "4shared",
+    "ServiceUrl": "https://www.4shared.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.4shared.com/video/Qejdha-Liq/DAILYMOTION_1599313893770.html"
+      }
+    ]
+  },
+  {
+    "Name": "instagram",
+    "ServiceUrl": "https://www.instagram.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.instagram.com/reel/CErRDiWg2lR/"
+      }
+    ]
+  },
+  {
+    "Name": "kwai",
+    "ServiceUrl": "https://www.kwai.com/",
+    "TestUrls": [
+      {
+        "Url": "http://kw.ai/p/XhVFz1bO"
+      }
+    ]
+  },
+  {
+    "Name": "ted",
+    "ServiceUrl": "https://www.ted.com/",
+    "TestUrls": [
+      {
+        "Url": "https://www.ted.com/talks/andri_snaer_magnason_on_time_and_water/up-next"
+      },
+      {
+        "Url": "https://www.ted.com/talks/sophie_howe_lessons_on_leaving_the_world_better_than_you_found_it"
+      }
+    ]
+  }
+
+]

@@ -1,0 +1,147 @@
+
+a.servicename{
+    
+}
+a.servicename:hover{
+    background-color: red;
+}
+
+
+.result{
+    margin-top:10px;
+}
+
+
+.videoinfocard img {
+    display: block;
+    margin: 0 auto 16.75px;
+    border: 1px solid #c5c5c5;
+    width: 100%;
+    max-width: 350px;
+}
+
+.content {
+    padding: 30px 10px 50px;
+}
+
+.content .block {
+    max-width: 900px;
+    margin: 0 auto 70px;
+}
+
+.content .block h1, .content .block h3 {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #d0cece;
+    padding-bottom: 10px;
+}
+
+.howto-list li {
+    padding: 12px 72px 30px;
+    position: relative;
+    background-image: url(../img/line.png?v=1);
+    background-position-x: 24px;
+    background-repeat: repeat-y;
+}
+
+.howto-list .bullet {
+    left: 0;
+    top: 0;
+    position: absolute;
+    margin-right: 23px;
+    display: inline-block;
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    line-height: 48px;
+    background-color: #ffd8d8;
+    border: 2px solid #ef4c4c;
+    color: #ef4c4c;
+    text-align: center;
+    z-index: 3;
+}
+
+.howto-list li:last-of-type {
+    overflow: hidden;
+    background-image: none;
+}
+
+.supported-sites .icon {
+    text-align: center;
+    height: 83px;
+    width: 83px;
+    border-radius: 50%;
+    padding: 2px;
+    margin: 0 auto;
+    margin-bottom:10px;
+}
+.supported-sites .icon>i{
+    font-size: 50px;
+    padding-top: 14.6px;
+    color: #ffffff;
+}
+
+
+.supported-sites .youtube .icon {
+    background: red!important
+}
+
+.supported-sites .facebook .icon {
+    background: #3B5997!important
+}
+
+.supported-sites .instagram .icon {
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+}
+.supported-sites .vimeo .icon {
+    background: #00ACED !important;
+}
+
+.supported-sites .soundcloud .icon {
+    background: #FF6A22 !important;
+}
+
+.supported-sites .label {
+    color: rgba(47, 47, 47, 0.9019607843137255);
+    text-align: center;
+    font-size:15px;
+}
+
+.supported-sites {
+    text-align: center;
+}
+
+.supported-sites .row>div{
+    margin-top: 10px;
+}
+
+#footer li{
+			display: inline-block;
+    		padding: 0 5px;
+ 		}
+		.panel-body>audio,.panel-body>video,.panel-body>a{
+			margin: 0 auto;
+			display: table;
+		}
+		.panel-body>video{
+			-webkit-box-shadow: 0px 0px 26px 1px rgba(0,0,0,0.75);
+			-moz-box-shadow: 0px 0px 26px 1px rgba(0,0,0,0.75);
+			box-shadow: 0px 0px 26px 1px rgba(0,0,0,0.75);
+			border-radius: 25px;
+			background-color: black;
+		}
+		.panel-body>a{
+			-webkit-box-shadow: 0px 0px 26px 1px rgba(0,0,0,0.75);
+			-moz-box-shadow: 0px 0px 26px 1px rgba(0,0,0,0.75);
+			box-shadow: 0px 0px 26px 1px rgba(0,0,0,0.75);
+		}
+.center
+{
+	
+}
+		
